@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
+date: '2017-12-21'
 title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+company: 'Qanova'
+location: 'Santiago, CL'
+range: 'December 2017 - march 2018'
+url: 'https://www.qanova.cl'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
