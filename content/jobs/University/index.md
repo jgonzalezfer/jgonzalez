@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2018-04-01'
+title: 'Developer in Monitoring and Control'
+company: 'Universidad Bernardo O’Higgins'
+location: 'Santiago, RM'
+range: 'March 2018 - March 2020'
+url: 'http://www.ubo.cl/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

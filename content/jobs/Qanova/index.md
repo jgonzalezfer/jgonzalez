@@ -2,7 +2,7 @@
 date: '2017-12-21'
 title: 'Creative Technologist Co-op'
 company: 'Qanova'
-location: 'Santiago, CL'
+location: 'Santiago, RM'
 range: 'December 2017 - march 2018'
 url: 'https://www.qanova.cl'
 ---
