@@ -7,6 +7,6 @@ range: 'December 2017 - march 2018'
 url: 'https://www.qanova.cl'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and mores
+- Maintainer of applications developed in Microsoft C++.
+- Maintainer of MySQL Database server.
+- Create a test plan for modules that allows payment with checks in physical stores validating its authenticity through BCI bank.
