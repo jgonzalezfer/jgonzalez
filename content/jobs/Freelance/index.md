@@ -1,7 +1,7 @@
 ---
 date: '2019-12-21'
 title: 'Developer Freelance'
-company: 'freelance'
+company: 'free-lance'
 location: 'Santiago, RM'
 range: 'September 2019- November 2020'
 url: '#'
