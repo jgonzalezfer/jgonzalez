@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Acción Venus'
+title: 'Acción Venus E-commerce'
 cover: './accionvenus.png'
 github: '#'
 external: 'https://www.accionvenus.com'

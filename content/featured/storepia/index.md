@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Storepia'
+title: 'Storepia E-commerce'
 cover: './storepia.png'
 github: '#'
-cta: '#'
+cta: 'https://www.storepia.cl'
 external: 'https://www.storepia.cl'
 tech:
   - WooCommerce
