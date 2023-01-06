@@ -2,6 +2,7 @@
 date: '1'
 title: 'Ortopedias Más Vida'
 cover: './omv.png'
+github: '#'
 external: 'https://ortopediasmasvida.cl'
 tech:
   - WooCommerce

@@ -2,6 +2,7 @@
 date: '2'
 title: 'Acción Venus'
 cover: './accionvenus.png'
+github: '#'
 external: 'https://www.accionvenus.com'
 tech:
   - WooCommerce
