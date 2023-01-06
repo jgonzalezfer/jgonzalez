@@ -11,4 +11,4 @@ company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building a custom multisite compatible WordPress plugin to build global search with Algolias
