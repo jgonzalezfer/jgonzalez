@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Storepia'
+cover: './storepia.png'
+external: 'https://www.storepia.cl'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - WooCommerce
+  - Wordpress
+  - PhP
+  - Javascript
+  - Bootstrap
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
