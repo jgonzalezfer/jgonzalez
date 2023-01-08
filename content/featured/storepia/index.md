@@ -8,11 +8,9 @@ external: 'https://www.storepia.cl'
 tech:
   - WooCommerce
   - Wordpress
-  - PhP
+  - PHP
   - Javascript
   - Bootstrap
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+We implemented home delivery, confirmation of the purchase on the web. We also integrated a payment method by FLow payment gateway via webservice, and a customized search module with a configurable product card, where you can select products by size and color, which allows us to reduce the final product catalog and only deliver a product with all its variations. This allowed an increase in sales in relation to the previous month.

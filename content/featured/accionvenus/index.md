@@ -7,9 +7,13 @@ external: 'https://www.accionvenus.com'
 tech:
   - WooCommerce
   - Wordpress
-  - PhP
+  - PHP
   - Javascript
   - Bootstrap
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.sdf
+We redesigned the website and product tab to generate a better shopping experience for the user and added conversion options for Personalized Products, by displaying related products and offers within the same screen.
+
+Featured Functionalities: 
+- Extensive promotions module: discount coupons, hourly promotions, promotions with limited stock, category with certain start and end day and time.
+- Product recommendation based on user navigation and other customers.

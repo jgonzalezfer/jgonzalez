@@ -7,9 +7,9 @@ external: 'https://ortopediasmasvida.cl'
 tech:
   - WooCommerce
   - Wordpress
-  - PhP
+  - PHP
   - Javascript
   - Bootstrap
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+With the equipment we developed an intuitive navigation system, allowing that by selecting a specific area of the body, the customer can get a variety of products related to the area to be treated either by injury or injury prevention. It has a responsive navigation with interactive buttons that allow immediate actions, either to call or contact via Whatsapp to kinesiologists or operators of the physical store.

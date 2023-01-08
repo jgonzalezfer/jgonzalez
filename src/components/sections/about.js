@@ -135,16 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+
+              Hello, my name is Joel Gonzalez Fernandez, My love for computer science started at the age of 12, 
+              when I entered Robotics and computer science workshops; it turns out that I decided to try editing custom 
+              Tumblr themes that hacking a custom button and creating styles, taught me a lot about HTML &amp; CSS!,
+              Eventually I decided to study computer engineering.
+              
             </p>
 
             <p>
             Fast-forward to today, and I’ve had the privilege of working at {' '}
               <a href="https://www.qanova.cl">Qanova</a>,{' '}
-              <a href="www.ubo.cl/">Universidad Bernardo O’Higgins</a>,{' '}
+              <a href="https://www.ubo.cl">Universidad Bernardo O’Higgins</a>,{' '}
               <a href="https://www.miancafs.com">Miancafs</a>, and{' '}
               <a href="https://ortopediasmasvida.cl">Ortopedias más vida</a> and as a free-lance. My 
               main focus these days is building accessible, inclusive products and digital experiences.
