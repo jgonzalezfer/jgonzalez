@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Ortopedias Más Vida E-commerce'
+title: 'Grupo Ortopedias Más Vida E-commerce'
 cover: './omv.png'
 github: '#'
 external: 'https://ortopediasmasvida.cl'
