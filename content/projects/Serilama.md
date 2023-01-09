@@ -1,13 +1,12 @@
 ---
-date: '2018-05-01'
+date: '2021-05-01'
 title: 'Serilama'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://www.serilama.cl'
 tech:
   - WordPress
   - PHP
-  - WooCommerce
-company: 'Scout'
+company: 'Serilama'
 showInProjects: true
 ---
 

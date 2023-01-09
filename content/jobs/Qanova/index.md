@@ -1,6 +1,6 @@
 ---
 date: '2017-12-21'
-title: 'Creative Technologist Co-op'
+title: 'Junior Qa Tester'
 company: 'Qanova'
 location: 'Santiago, RM'
 range: 'December 2017 - march 2018'

@@ -1,7 +1,7 @@
 ---
-date: '2017-03-01'
+date: '2022-03-01'
 title: 'Acción Venus E-commerce'
-github: 'https://github.com/crowddj/crowddj-react'
+github: 'https://www.accionvenus.com'
 external: ''
 ios: ''
 android: ''
@@ -9,7 +9,7 @@ tech:
   - React
   - Firebase
   - Spotify API
-company: HackBeanpot 2017
+company: 'Accionvenus'
 showInProjects: true
 ---
 

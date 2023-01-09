@@ -1,9 +1,9 @@
 ---
 date: '2018-04-01'
-title: 'Developer in the solar car'
+title: 'Telemetry developer in the solar car '
 company: 'Universidad Bernardo O’Higgins'
 location: 'Santiago, RM'
-range: 'March 2018 - March 2020'
+range: 'March 2018 - September 2019'
 url: 'http://www.ubo.cl/'
 ---
 

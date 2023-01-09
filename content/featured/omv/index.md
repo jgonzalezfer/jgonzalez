@@ -2,7 +2,7 @@
 date: '1'
 title: 'Grupo Ortopedias Más Vida E-commerce'
 cover: './omv.png'
-github: '#'
+github: ''
 external: 'https://ortopediasmasvida.cl'
 tech:
   - WooCommerce

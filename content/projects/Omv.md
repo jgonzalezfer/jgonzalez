@@ -1,13 +1,15 @@
 ---
-date: '2020-03-27'
+date: '2022-03-27'
 title: 'Grupo Ortopedias Más Vida E-commerce B2C'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://ortopediasmasvida.cl'
 tech:
-  - Algolia
-  - WordPress
+  - Woocomerce
   - PHP
-company: 'Upstatement'
+  - Bootstrap
+  - Javascript
+  - SEO
+company: 'Grupo OMV'
 showInProjects: true
 ---
 

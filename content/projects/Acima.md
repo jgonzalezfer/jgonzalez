@@ -1,13 +1,13 @@
 ---
-date: '2021-07-01'
-title: 'Grupo bestlive B2B'
+date: '2021-08-01'
+title: 'Grupo Acima B2B'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://grupoacima.cl/'
 tech:
   - MusicKit.js
   - JS
   - SCSS
-company: 'Apple'
+company: 'Grupo Acima'
 showInProjects: true
 ---
 
