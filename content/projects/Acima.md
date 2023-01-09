@@ -4,9 +4,9 @@ title: 'Grupo Acima B2B'
 github: ''
 external: 'https://grupoacima.cl/'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Woocomerce
+  - Bootstrap
+  - SEO
 company: 'Grupo Acima'
 showInProjects: true
 ---

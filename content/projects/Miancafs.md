@@ -4,9 +4,10 @@ title: 'Grupo Miancafs'
 github: ''
 external: 'https://www.miancafs.com'
 tech:
-  - Ember
-  - JS
-  - SCSS
+  - Wordpress
+  - PHP
+  - Bootstrap
+  - SEO
 company: 'Miancafs'
 showInProjects: true
 ---

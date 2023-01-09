@@ -6,11 +6,11 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - React
-  - Firebase
-  - Spotify API
+  - Woocomerce
+  - Bootstrap
+  - SEO
 company: 'Accionvenus'
 showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+Rediseñamos el sitio web y la ficha de producto para generar una mejor experiencia de compra para el usuario y añadimos opciones de conversión para Productos Personalizados, mostrando productos relacionados y ofertas dentro de la misma pantalla.

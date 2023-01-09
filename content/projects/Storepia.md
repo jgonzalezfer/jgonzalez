@@ -11,4 +11,4 @@ company: 'storepia'
 showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+We implemented home delivery, confirmation of the purchase on the web. We also integrated a payment method by FLow payment gateway via webservice.

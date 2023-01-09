@@ -13,4 +13,4 @@ company: 'Grupo OMV'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolias
+With the equipment we developed an intuitive navigation system, allowing that by selecting a specific area of the body, the customer can get a variety of products related to the area to be treated either by injury or injury prevention. 

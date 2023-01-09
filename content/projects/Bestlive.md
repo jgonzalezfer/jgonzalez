@@ -4,9 +4,9 @@ title: 'Grupo bestlive B2B'
 github: ''
 external: 'https://tools.applemusic.com/en-us'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Woocomerce
+  - Bootstrap
+  - SEO
 company: 'Apple'
 showInProjects: true
 ---
