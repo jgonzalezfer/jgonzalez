@@ -13,4 +13,5 @@ company: 'Accionvenus'
 showInProjects: true
 ---
 
-Rediseñamos el sitio web y la ficha de producto para generar una mejor experiencia de compra para el usuario y añadimos opciones de conversión para Productos Personalizados, mostrando productos relacionados y ofertas dentro de la misma pantalla.
+We redesigned the website and product page to generate a better shopping experience for the user and added conversion options for Personalized Products, showing related products and offers within the same screen.
+

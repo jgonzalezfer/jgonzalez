@@ -6,8 +6,9 @@ external: 'https://github.com/jgonzalezfer/Tesis-recono-facial'
 tech:
   - Firebase
   - Angular
+  - TypeScript
 company: 'CL'
 showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Web application built on stack (Firebase, TypeScript, Angular) with the intention of providing a development prototype for UBO students, for facial recognition and image synchronization.
