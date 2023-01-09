@@ -1,5 +1,5 @@
 ---
-date: '2021-08-01'
+date: '2021-08-04'
 title: 'Grupo Acima B2B'
 github: ''
 external: 'https://grupoacima.cl/'

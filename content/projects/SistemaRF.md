@@ -1,8 +1,8 @@
 ---
 date: '2022-12-01'
 title: 'Sistema de reconocimiento facial'
-github: 'https://github.com/jgonzalezfer/Tesis-recono-facial'
-external: ''
+github: ''
+external: 'https://github.com/jgonzalezfer/Tesis-recono-facial'
 tech:
   - Firebase
   - Angular
