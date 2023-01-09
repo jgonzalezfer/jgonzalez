@@ -1,6 +1,6 @@
 ---
 date: '2020-12-21'
-title: 'Developer Engineer Miancafs'
+title: 'Developer Engineer'
 company: 'Miancafs'
 location: 'Santiago, RM'
 range: 'December 2020- Present'
