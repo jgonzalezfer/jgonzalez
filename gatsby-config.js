@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Joel González F',
+    title: 'Joel González Fer.',
     description:
       'Joel González F. is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://jgonzalez.gatsbyjs.io', // No trailing slash allowed!
