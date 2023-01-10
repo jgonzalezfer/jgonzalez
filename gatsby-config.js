@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Joel González F.',
-        short_name: 'Joel González F',
+        short_name: 'Joel González Fer.',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
