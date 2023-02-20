@@ -2,7 +2,7 @@
 date: '2021-07-01'
 title: 'Grupo bestlive B2B'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://www.grupobestlive.cl'
 tech:
   - Woocomerce
   - Bootstrap
@@ -11,3 +11,4 @@ company: 'Apple'
 showInProjects: true
 ---
 
+Creation of a Woocommerce plugin for B2B sales, with the integration of a payment gateway and customized profiles for each group of customers.

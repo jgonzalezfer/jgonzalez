@@ -1,8 +1,8 @@
 ---
 date: '2022-03-01'
 title: 'Acción Venus E-commerce'
-github: 'https://www.accionvenus.com'
-external: ''
+github: ''
+external: 'https://www.accionvenus.com'
 ios: ''
 android: ''
 tech:

@@ -1,8 +1,8 @@
 ---
 date: '2020-04-01'
 title: 'Storepia E-commerce'
-github: 'https://www.storepia.cl'
-external: ''
+github: ''
+external: 'https://www.storepia.cl'
 tech:
   - WordPress
   - PHP
