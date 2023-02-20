@@ -1,13 +1,13 @@
 ---
-date: '20-11-2019'
-title: 'henaojara2'
+date: '2020-04-01'
+title: 'henaojara2 video'
 github: ''
 external: 'https://henaojara2.com'
 tech:
   - Wordpress
   - PHP
   - Bootstrap
-company: 'Miancafs'
+company: 'henaojara2'
 showInProjects: true
 ---
 
