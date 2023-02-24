@@ -20,4 +20,4 @@ Projects are delivered on time and in proper form.
 - Constantly communicated with clients to understand their needs and provide
 suitable solutions that meet your requirements.
 - Created regression tests for testing and debugging the e-commerce website
-to make sure it works correctly.
+to make sure it works correctly
