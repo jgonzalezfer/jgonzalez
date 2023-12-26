@@ -65,8 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, 
-      I’m focused on building amazing and first level eCommerce and websites.
+        I specialize in crafting (and occasionally designing) exceptional digital experiences. Currently, my focus is on building amazing, first-rate eCommerce platforms and websites. For more information about my work, visit my website
       </p>
     </>
   );
