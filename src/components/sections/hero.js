@@ -61,21 +61,27 @@ const Hero = () => {
 
   const one = <h1>Hi 👋, my name is</h1>;
   const two = <h2 className="big-heading">Joel González F.</h2>;
-  const three = <h3 className="big-heading">I'm a Software Engineer and Digital Expert.</h3>;
+  const three = (
+    <h3 className="big-heading">
+      I build accessible, pixel-perfect digital experiences for the Web and Mobile.
+    </h3>
+  );
   const four = (
     <>
       <p>
-        I specialize in crafting (and occasionally designing) exceptional digital experiences. Currently, my focus is on building amazing, first-rate eCommerce platforms and websites. For more information about my work, visit my website
+        Soy ingeniero de software especializado en el desarrollo y, en ocasiones, diseño de
+        soluciones digitales excepcionales. Actualmente, me enfoco en crear productos accesibles y
+        centrados en el usuario para{' '}
+        <a href="https://mystudiodev.netlify.app" target="_blank" rel="noreferrer">
+          MyStudioDev
+        </a>
+        .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="#contact"
-      target="_blank"
-      rel="noreferrer">
-      Let's Talk
+    <a className="email-link" href="/#contact" target="_blank" rel="noreferrer">
+      Conversemos De...
     </a>
   );
 
