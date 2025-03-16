@@ -3,7 +3,7 @@ date: '2020-11-21'
 title: 'Junior Web Developer.'
 company: 'free-lance'
 location: 'Santiago, RM'
-range: 'September 2019- November 2020'
+range: 'sept. 2020 - nov. 2020 · 3 meses'
 url: '#'
 ---
 

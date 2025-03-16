@@ -3,9 +3,10 @@ date: '2020-12-21'
 title: 'Junior Web Developer Engineer.'
 company: 'Miancafs'
 location: 'Santiago, RM'
-range: 'December 2020- Present'
+range: 'dic. 2020 - feb. 2023 · 2 años 3 meses'
 url: 'https://www.miancafs.com'
 ---
+
 Responsible for developing and maintaining e-commerce websites optimized for search engines, work on the creation and maintenance of a customized intranet for the holding company. search engines, work on the creation and maintenance of a customized intranet for the holding company,implement improvements with updates, provide technical support to users in case of technical issues.
 
 - I planned the design, layout in Figma and the creation of different basic and Ecommerce websites with WordPress, Elementor, Divi and Woocomerce technologies.

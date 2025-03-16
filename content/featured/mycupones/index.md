@@ -1,15 +1,15 @@
 ---
-date: '4'
-title: 'Acción Venus · E-commerce'
-cover: './accionvenus.png'
+date: '1'
+title: 'MyCupones App · Android'
+cover: './mycupones-netlifyapp.png'
 github: ''
-external: 'https://www.accionvenus.com'
+external: 'https://mycupones.netlify.app'
 tech:
-  - WooCommerce
-  - Wordpress
-  - PHP
+  - React
+  - Expo
+  - Tailwind css
   - Javascript
-  - Bootstrap
+  - React native
 ---
 
 We redesigned the website and product tab to generate a better shopping experience for the user and added conversion options for Personalized Products, by displaying related products and offers within the same screen.

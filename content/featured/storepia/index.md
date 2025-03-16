@@ -1,6 +1,6 @@
 ---
-date: '3'
-title: 'Storepia E-commerce'
+date: '2'
+title: 'Storepia · E-commerce'
 cover: './storepia.png'
 github: ''
 cta: 'https://www.storepia.cl'

@@ -3,7 +3,7 @@ date: '2018-04-01'
 title: 'Telemetry developer in the solar car '
 company: 'University UBO'
 location: 'Santiago, RM'
-range: 'March 2018 - September 2019'
+range: 'mar. 2018 - sept. 2019 · 1 año 7 meses'
 url: 'http://www.ubo.cl/'
 ---
 
