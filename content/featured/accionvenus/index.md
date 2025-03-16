@@ -12,9 +12,10 @@ tech:
   - Bootstrap
 ---
 
-We redesigned the website and product tab to generate a better shopping experience for the user and added conversion options for Personalized Products, by displaying related products and offers within the same screen.
+Rediseñamos el sitio web y la ficha de producto con el objetivo de mejorar la experiencia de compra del usuario. Además, incorporamos nuevas opciones de conversión para Productos Personalizados, permitiendo la visualización de productos relacionados y ofertas dentro de la misma pantalla, optimizando así la toma de decisiones del cliente.
 
 Featured Functionalities:
 
-- Extensive promotions module: discount coupons, hourly promotions, promotions with limited stock, category with certain start and end day and time.
-- Product recommendation based on user navigation and other customers.
+- Módulo avanzado de promociones: Incluye cupones de descuento, promociones por tiempo limitado, ofertas con stock restringido y categorías con fecha y hora de inicio y finalización programadas.
+
+- Recomendación de productos personalizada: Basada en la navegación del usuario y en las preferencias de otros clientes, mejorando la relevancia de las sugerencias y aumentando las tasas de conversión en un 30%.
