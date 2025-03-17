@@ -12,9 +12,11 @@ tech:
   - React native
 ---
 
-We redesigned the website and product tab to generate a better shopping experience for the user and added conversion options for Personalized Products, by displaying related products and offers within the same screen.
+Diseñamos el sitio web desde cero utilizando Figma, siguiendo las especificaciones proporcionadas por el cliente. El objetivo principal fue mostrar las actualizaciones y la información específica del sitio web y su aplicación, permitiendo la visualización de cupones y ofertas de manera clara y accesible.
+
+Además, desarrollamos una aplicación móvil en React Native, basada en el diseño proporcionado por el cliente y optimizada para mejorar la experiencia de usuario (UX/UI).
 
 Featured Functionalities:
 
-- Extensive promotions module: discount coupons, hourly promotions, promotions with limited stock, category with certain start and end day and time.
-- Product recommendation based on user navigation and other customers.
+- Buscador especializado por tienda: Permite a los usuarios encontrar información detallada sobre los cupones disponibles en cada comercio.
+- Integración con Google: Facilita el inicio de sesión y el guardado de datos del usuario para una experiencia más fluida.
