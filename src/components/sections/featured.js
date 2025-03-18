@@ -42,7 +42,7 @@ const StyledProject = styled.li`
   &:nth-of-type(odd) {
     .project-content {
       grid-column: 7 / -1;
-      text-align: right;
+      text-align: justify;
 
       @media (max-width: 1080px) {
         grid-column: 5 / -1;
@@ -93,6 +93,7 @@ const StyledProject = styled.li`
 
   .project-content {
     position: relative;
+    text-align: justify;
     grid-column: 1 / 7;
     grid-row: 1 / -1;
 
@@ -384,7 +385,7 @@ const Featured = () => {
                     <div className="project-links">
                       {cta && (
                         <a href={cta} aria-label="Course Link" className="cta">
-                          Learn More
+                          Más información
                         </a>
                       )}
                       {github && (

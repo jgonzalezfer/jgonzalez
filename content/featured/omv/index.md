@@ -1,6 +1,6 @@
 ---
-date: '1'
-title: 'Grupo Ortopedias Más Vida E-commerce'
+date: '3'
+title: 'Grupo Ortopedias Más Vida · E-commerce'
 cover: './omv.png'
 github: ''
 external: 'https://ortopediasmasvida.cl'
@@ -12,4 +12,6 @@ tech:
   - Bootstrap
 ---
 
-With the equipment we developed an intuitive navigation system, allowing that by selecting a specific area of the body, the customer can get a variety of products related to the area to be treated either by injury or injury prevention. It has a responsive navigation with interactive buttons that allow immediate actions, either to call or contact via Whatsapp to kinesiologists or operators of the physical store.
+Junto con el equipo, desarrollamos un sistema de navegación intuitivo en la tiendfa online, que permite a los clientes seleccionar una zona específica del cuerpo para acceder a una variedad de productos relacionados, ya sea para el tratamiento o la prevención de lesiones. Esta funcionalidad optimiza la experiencia de compra al ofrecer una interfaz responsiva con botones interactivos que facilitan acciones inmediatas, como contactar a los kinesiólogos o a los operadores de la tienda física a través de llamadas o WhatsApp.
+
+Además, implementamos un sistema de gestión empresarial (ERP) personalizado para la administración integral de tiendas y bodegas centrales, optimizando los procesos operativos y mejorando la eficiencia en la gestión de inventario, entre otras gestiones de la empresa.

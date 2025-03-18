@@ -11,17 +11,10 @@ module.exports = {
       url: 'https://www.instagram.com/jgonzalezfer/',
     },
     {
-      name: 'Twitter',
-      url: '#',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/joel-gonzález-fernández-735602203/',
     },
-    {
-      name: 'Codepen',
-      url: '#',
-    },
+
   ],
 
   navLinks: [

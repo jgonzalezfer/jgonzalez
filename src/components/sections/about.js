@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['PHP', 'MySQL', 'WordPress', 'Magento', 'Bootstrap', 'SEO', 'Figma'];
+  const skills = ['React', 'JS', 'MySQL', 'WordPress', 'Bootstrap', 'SEO', 'Figma'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-
-              Hello, my name is Joel Gonzalez Fernandez, My love for computer science started at the age of 12, 
-              when I entered Robotics and computer science workshops; it turns out that I decided to try editing custom 
-              Tumblr themes that hacking a custom button and creating styles, taught me a lot about HTML &amp; CSS!,
-              Eventually I decided to study computer engineering.
-              
+              Hello, my name is Joel Gonzalez Fernandez, Mi pasión por la informática comenzó a los
+              12 años, cuando entré a talleres de Robótica e informática. Durante ese tiempo, decidí
+              probar editar temas personalizados de Tumblr, lo que me enseñó mucho sobre HTML y CSS,
+              ya que hackear un botón personalizado y crear estilos me permitió aprender mucho.
+              Eventualmente, decidí estudiar ingeniería informática.
             </p>
-
             <p>
-            Fast-forward to today, and I’ve had the privilege of working at {' '}
-              <a href="https://www.qanova.cl">Qanova</a>,{' '}
-              <a href="https://www.ubo.cl">Universidad Bernardo O’Higgins</a>,{' '}
-              <a href="https://www.miancafs.com">Miancafs</a>, and{' '}
-              <a href="https://ortopediasmasvida.cl">Ortopedias más vida</a> and as a free-lance. My 
-              main focus these days is building accessible, inclusive products and digital experiences.
+              Actualmente, soy Ingeniero Front-End en MyStudioDev, especializado en accesibilidad
+              para web y mobile. Contribuyo a la creación y mantenimiento de componentes de interfaz
+              de usuario que potencian el front-end de MyStudioDev, asegurando que nuestra
+              plataforma cumpla con los estándares de accesibilidad web y las mejores prácticas para
+              ofrecer una experiencia de usuario inclusiva.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Éstas son algunas de las tecnologías con las que he trabajado recientemente:</p>
           </div>
 
           <ul className="skills-list">

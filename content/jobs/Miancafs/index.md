@@ -3,15 +3,20 @@ date: '2020-12-21'
 title: 'Junior Web Developer Engineer.'
 company: 'Miancafs'
 location: 'Santiago, RM'
-range: 'December 2020- Present'
+range: 'dic. 2020 - feb. 2023 · 2 años 3 meses'
 url: 'https://www.miancafs.com'
 ---
-Responsible for developing and maintaining e-commerce websites optimized for search engines, work on the creation and maintenance of a customized intranet for the holding company. search engines, work on the creation and maintenance of a customized intranet for the holding company,implement improvements with updates, provide technical support to users in case of technical issues.
 
-- I planned the design, layout in Figma and the creation of different basic and Ecommerce websites with WordPress, Elementor, Divi and Woocomerce technologies.
-- I was in the creation, update and administration of modules for the holding's intranet. The site was created for the administration and connection of different areas.
-- Managed the optimization of the website for search engines (SEO) and analysis of the competition to improve the positioning of the site.
-- Provide technical support in case of website technical issues or DDOS attack to resolve them in a timely manner.
-- Implemented intranet privacy policies and working procedures to ensure the smooth running of the site.
-- Developed and administered website spending and investment plan.
-- Implemented systems for inventory control, rotation, shrinkage and internal consumption on the holding's intranet.
+Fui el responsable del desarrollo y mantenimiento de sitios web de comercio electrónico optimizados para motores de búsqueda. Además, participé en la creación y gestión de una ERP creada con la  personalizada espesifica de la wempresa para la mejora de informacion, implementando mejoras, actualizaciones y proporcionando soporte técnico a los usuarios.
+
+Principales funciones:
+
+ - Diseño y desarrollo web: Planificación, diseño en Figma, maquetación y desarrollo de sitios web y eCommerce utilizando tecnologías como WordPress, WooCommerce, React, CSS  y PHP.
+
+- Gestión de la intranet del holding: Creación, actualización y administración de módulos para la intranet del ERP, optimizando la conexión entre diferentes áreas de la empresa.
+
+- Optimización SEO y análisis de competencia: Implementación de estrategias de posicionamiento en buscadores para mejorar la visibilidad del sitio web.
+
+- Soporte técnico y seguridad: Resolución de incidencias técnicas, mitigación de ataques DDoS y mantenimiento general del sitio web.
+
+- Cumplimiento de normativas: Aplicación de políticas de privacidad y procedimientos internos para garantizar la seguridad y el correcto funcionamiento de la ERP.
