@@ -5640,7 +5640,7 @@ gatsby-recipes@^0.26.0:
 
 gatsby-remark-code-titles@^1.1.0:
   version "1.1.0"
-  resolved "https://registry.npmjs.org/gatsby-remark-code-titles/-/gatsby-remark-code-titles-1.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-code-titles/-/gatsby-remark-code-titles-1.1.0.tgz#1b7246e4ac78669c1ca7c18ea70c3dd11fede139"
   integrity sha512-RuNqziXi99eBIj5NJP0TgdzAxzWFL+ArGRb3961Ff9Tto/nCvmyqR1qySaWKXtkOgeqoVUlqAFNUCyEAyNuc8w==
   dependencies:
     query-string "~6.0.0"
