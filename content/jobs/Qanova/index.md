@@ -7,9 +7,11 @@ range: 'dic. 2017 - mar. 2018 · 4 meses'
 url: 'https://www.qanova.cl'
 ---
 
-Responsible for ensuring that web applications work properly. To do this, test manual and automated, document the problems found and work with the development team to solve them. I also tested new functions and features of the app and made sure that the design as well as usability are adequate to provide a good user experience.
+Responsable de asegurar el correcto funcionamiento de las aplicaciones web mediante la ejecución de pruebas manuales y automatizadas, la documentación de errores y la colaboración con el equipo de desarrollo para su resolución. Además, realicé pruebas de nuevas funcionalidades y características, garantizando que el diseño y la usabilidad cumplieran con los estándares de calidad para ofrecer una excelente experiencia de usuario.
 
-- Plan and Develop the Qanov.cl website.
-- Planned errors and documented for applications developed on Desktop and Web.
-- Created reports on MySQL database servers.
-- I led a test plan for the modules that allow payment with checks in physical stores, validating their authenticity through the BCI bank.
+Principales responsabilidades:
+-Diseño y desarrollo del sitio web Qanov.cl, asegurando su correcto funcionamiento y optimización.
+
+- Planificación y documentación de errores en aplicaciones Desktop y Web, facilitando la depuración y mejora continua.
+
+- Generación de reportes en servidores MySQL, proporcionando información clave para la toma de decisiones.

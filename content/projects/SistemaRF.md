@@ -11,4 +11,4 @@ company: 'CL'
 showInProjects: true
 ---
 
-Web application built on stack (Firebase, TypeScript, Angular) with the intention of providing a development prototype for UBO students, for facial recognition and image synchronization.
+Desarrollamos una aplicación web utilizando Firebase, TypeScript y Angular, con el propósito de proporcionar un prototipo funcional para estudiantes de la Universidad Bernardo O’Higgins (UBO). Este sistema está diseñado para el reconocimiento facial y la sincronización de imágenes, optimizando la gestión y procesamiento de datos en tiempo real.

@@ -60,11 +60,10 @@ const Contact = () => {
       <h2 className="title">¡Let's Talk!</h2>
 
       <p>
-      Always I’m looking for new opportunities and my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-      </p>
+        Siempre estoy buscando nuevas oportunidades y mi bandeja de entrada está siempre abierta. Si tienes alguna pregunta o simplemente quieres saludarme, ¡haré todo lo posible por responderte!      </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Di Hola
       </a>
     </StyledContactSection>
   );

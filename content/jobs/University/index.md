@@ -7,7 +7,16 @@ range: 'mar. 2018 - sept. 2019 · 1 año 7 meses'
 url: 'http://www.ubo.cl/'
 ---
 
-Responsible for working on the design, development and maintenance of telemetry systems and vehicle communication, allowing to measure and transmit important information about the efficiency of the vehicle, battery charge, energy consumption, speed and other variables. Also, send the information to the database, to consume the data on a website, thus analyzing the status of the car.
+Fui el responsable del diseño, desarrollo y mantenimiento de los sistemas de telemetría y comunicación del vehículo, permitiendo la medición y transmisión de datos clave como eficiencia del vehículo, carga de la batería, consumo de energía, velocidad y otras variables. Estos datos fueron enviados a una base de datos para su análisis y visualización en una plataforma web, facilitando el monitoreo en tiempo real del estado del coche.
 
-- Collaborate with a small team of computer engineering, mechanical engineering, and electrical engineering students and faculty to spearhead a solar car build from scratch for the Atacama Solar Race.
-- Work closely with the electrical engineers and management team to develop, document and manage the electronic components with Arduino and their communication with the board using C++.
+Principales responsabilidades:
+
+- Desarrollo e implementación de sistemas de telemetría para capturar y procesar datos esenciales del vehículo.
+
+- Transmisión y almacenamiento de datos en una base de datos para su posterior análisis en una interfaz web.
+
+- Colaboración interdisciplinaria con un equipo de estudiantes y profesores de ingeniería informática, mecánica y eléctrica en la construcción de un coche solar para la Carrera Solar de Atacama.
+
+- Trabajo conjunto con ingenieros eléctricos y el equipo de gestión para desarrollar, documentar y gestionar los componentes electrónicos del vehículo.
+
+- Integración de Arduino y comunicación con la placa utilizando C++, optimizando la interacción entre los distintos sistemas electrónicos del automóvil.
