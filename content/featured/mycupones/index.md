@@ -3,6 +3,7 @@ date: '1'
 title: 'MyCupones App · Android'
 cover: './mycupones-netlifyapp.png'
 github: ''
+cta: 'https://mycupones.netlify.app'
 external: 'https://mycupones.netlify.app'
 tech:
   - React
@@ -16,7 +17,7 @@ Diseñamos el sitio web desde cero utilizando Figma, siguiendo las especificacio
 
 Además, desarrollamos una aplicación móvil en React Native, basada en el diseño proporcionado por el cliente y optimizada para mejorar la experiencia de usuario (UX/UI).
 
-Featured Functionalities:
+Funciones destacadas:
 
 - Buscador especializado por tienda: Permite a los usuarios encontrar información detallada sobre los cupones disponibles en cada comercio.
 - Integración con Google: Facilita el inicio de sesión y el guardado de datos del usuario para una experiencia más fluida.
