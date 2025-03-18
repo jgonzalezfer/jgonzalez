@@ -1,0 +1,22 @@
+# Configuración de Netlify
+[build]
+  # Comando de construcción, el que usas para construir tu proyecto
+  command = "npm run build"
+  # Directorio de publicación donde Netlify buscará los archivos construidos
+  publish = "build"
+
+  # Versión de Node.js que quieres usar
+  node_version = "16"  # Puedes cambiarlo a "14.17.0" o "16"
+
+[build.environment]
+  # Establece variables de entorno específicas para la construcción
+  NODE_ENV = "production"
+
+[context.production.environment]
+  # Variables de entorno específicas para el entorno de producción
+  API_URL = "https://mi-api.com"
+  # Puedes agregar otras variables que necesitas en producción
+
+[context.deploy-preview.environment]
+  # Variables de entorno específicas para los entornos de vista previa
+  API_URL = "https://vista-previa-mi-api.com"
