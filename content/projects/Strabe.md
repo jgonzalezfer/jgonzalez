@@ -1,6 +1,6 @@
 ---
 date: '2022-11-01'
-title: 'Strabe'
+title: 'Strabe - Fuera de Servicio'
 github: ''
 external: 'strabe.cl'
 tech:
@@ -8,8 +8,8 @@ tech:
   - PHP
   - Bootstrap
   - SEO
-company: 'Miancafs'
+company: 'Strabe.cl'
 showInProjects: true
 ---
 
-Custom WordPress theme for strabe, an urban project execution start-up.
+Desarrollé un diseño de tema WordPress personalizado para Strabe, una startup innovadora enfocada en la ejecución de proyectos urbanos.

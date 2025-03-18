@@ -14,7 +14,7 @@ tech:
 
 Rediseñamos el sitio web y la ficha de producto con el objetivo de mejorar la experiencia de compra del usuario. Además, incorporamos nuevas opciones de conversión para Productos Personalizados, permitiendo la visualización de productos relacionados y ofertas dentro de la misma pantalla, optimizando así la toma de decisiones del cliente.
 
-Featured Functionalities:
+Funciones destacadas:
 
 - Módulo avanzado de promociones: Incluye cupones de descuento, promociones por tiempo limitado, ofertas con stock restringido y categorías con fecha y hora de inicio y finalización programadas.
 
