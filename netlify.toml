@@ -6,8 +6,8 @@
   publish = "build"
 
   # Versión de Node.js que quieres usar
-  node_version = "16"  
+  node_version = "18"  
 
 [build.environment]
   NODE_ENV = "production"
-  NODE_VERSION = "16"
+  NODE_VERSION = "18"
