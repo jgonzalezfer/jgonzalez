@@ -63,7 +63,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">Joel González F.</h2>;
   const three = (
     <h3 className="big-heading">
-      I build accessible, pixel-perfect digital experiences for the Web and Mobile.
+      Construyo experiencias digitales accesibles y perfectas para la web y los móviles.{' '}
     </h3>
   );
   const four = (
