@@ -1,6 +1,4 @@
-<div align="center">
-  <img alt="Logo" src="[https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png](https://jgonzalezfer.netlify.app/static/bc445b427524ac1b7afae4c0a23b2467/54640/jgonzalez.avif)" width="100" />
-</div>
+
 
 <h1 align="center">jgonzalezfer.netlify.app - v4</h1>
 
@@ -9,9 +7,6 @@
 </p>
 
 
-
-
-![Demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
 ---
 
