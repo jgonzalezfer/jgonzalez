@@ -1,25 +1,15 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="[https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png](https://jgonzalezfer.netlify.app/static/bc445b427524ac1b7afae4c0a23b2467/54640/jgonzalez.avif)" width="100" />
 </div>
 
-<h1 align="center">brittanychiang.com - v4</h1>
+<h1 align="center">jgonzalezfer.netlify.app - v4</h1>
 
 <p align="center">
-  La cuarta iteración de <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>, construida con <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> y alojada en <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+  La cuarta iteración de <a href="https://jgonzalezfer.netlify.app" target="_blank">jgonzalezfer.netlify.ap</a>, construida con <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> y alojada en <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 
-<p align="center">
-  Versiones anteriores:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a> |
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a> |
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
 
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
+
 
 ![Demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
