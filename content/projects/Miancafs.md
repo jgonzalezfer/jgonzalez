@@ -12,4 +12,4 @@ company: 'Miancafs'
 showInProjects: true
 ---
 
-Custom WordPress theme for Miancafs, a logistics and product distribution start-up in chile.
+Desarrollé un tema de WordPress personalizado para Miancafs, una startup chilena especializada en logística y distribución de productos.

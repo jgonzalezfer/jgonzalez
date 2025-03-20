@@ -13,4 +13,4 @@ company: 'Grupo OMV'
 showInProjects: true
 ---
 
-With the equipment we developed an intuitive navigation system, allowing that by selecting a specific area of the body, the customer can get a variety of products related to the area to be treated either by injury or injury prevention. 
+Junto con el equipo, hemos desarrollado una tienda en línea con un sistema de navegación intuitivo que permite al cliente seleccionar una zona específica del cuerpo y acceder a una variedad de productos diseñados para su tratamiento, ya sea para la recuperación de una lesión o su prevención.

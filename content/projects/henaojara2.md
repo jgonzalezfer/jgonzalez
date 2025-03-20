@@ -11,4 +11,4 @@ company: 'henaojara2'
 showInProjects: true
 ---
 
-Custom WordPress theme for henaojara2, an animation series start-up.
+Desarrollé un tema de WordPress personalizado para Henaojara2, una startup especializada en series de animación.

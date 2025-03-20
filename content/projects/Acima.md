@@ -11,4 +11,4 @@ company: 'Grupo Acima'
 showInProjects: true
 ---
 
-Creation of a Woocommerce plugin for B2B sales, with the integration of a payment gateway and customized profiles for each group of customers.
+Desarrollé un plugin de WooCommerce para ventas B2B, que incluye la integración de una pasarela de pago y perfiles personalizados para cada grupo de clientes.

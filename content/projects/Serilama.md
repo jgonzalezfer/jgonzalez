@@ -9,4 +9,5 @@ tech:
 company: 'Serilama'
 showInProjects: true
 ---
-Custom WordPress theme for Serilama, a logistics and product distribution start-up.
+
+Desarrollé un tema de WordPress personalizado para Serilama, una startup especializada en logística y distribución de productos.

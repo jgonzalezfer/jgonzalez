@@ -11,4 +11,4 @@ company: 'storepia'
 showInProjects: true
 ---
 
-We implemented home delivery, confirmation of the purchase on the web. We also integrated a payment method by FLow payment gateway via webservice.
+Implementamos la entrega a domicilio mediante un plugin personalizado, junto con la confirmación de compra directamente en la web. Además, integramos un método de pago a través de la pasarela Flow mediante WebService.

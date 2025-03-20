@@ -11,4 +11,4 @@ company: 'Unelko'
 showInProjects: true
 ---
 
-Custom WordPress theme for unelko, a start-up of edible products with seaweed and Cochayuyo.
+Desarrollé un tema de WordPress personalizado para Unelko, una startup especializada en productos comestibles a base de algas y cochayuyo.

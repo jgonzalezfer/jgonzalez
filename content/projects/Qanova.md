@@ -9,4 +9,5 @@ tech:
 company: 'Qanova'
 showInProjects: true
 ---
-Custom WordPress theme for Qanova, a start-up that specializes in delivering services associated with software quality assurance.
+
+Desarrollé un tema de WordPress personalizado para Qanova, una startup especializada en servicios de control de calidad de software.
