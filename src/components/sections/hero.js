@@ -71,11 +71,7 @@ const Hero = () => {
       <p>
         Soy ingeniero de software especializado en el desarrollo y, en ocasiones, diseño de
         soluciones digitales excepcionales. Actualmente, me enfoco en crear productos accesibles y
-        centrados en el usuario para{' '}
-        <a href="https://mystudiodev.netlify.app" target="_blank" rel="noreferrer">
-          MyStudioDev
-        </a>
-        .
+        centrados en el usuario.
       </p>
     </>
   );
