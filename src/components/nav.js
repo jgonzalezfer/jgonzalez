@@ -173,7 +173,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume-joel.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="/Joel-Gonzalez-Fernandez-CV-Ingeniero-informática.pdf"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
