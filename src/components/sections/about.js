@@ -142,11 +142,10 @@ const About = () => {
               Eventualmente, decidí estudiar ingeniería informática.
             </p>
             <p>
-              Actualmente, soy Ingeniero Front-End en MyStudioDev, especializado en accesibilidad
-              para web y mobile. Contribuyo a la creación y mantenimiento de componentes de interfaz
-              de usuario que potencian el front-end de MyStudioDev, asegurando que nuestra
-              plataforma cumpla con los estándares de accesibilidad web y las mejores prácticas para
-              ofrecer una experiencia de usuario inclusiva.
+              Actualmente, soy Ingeniero Front-End, especializado en accesibilidad para web y
+              mobile. Contribuyo a la creación y mantenimiento de componentes de interfaz de
+              usuario, asegurando la plataforma cumpla con los estándares de accesibilidad web y las
+              mejores prácticas para ofrecer una experiencia de usuario inclusiva.
             </p>
 
             <p>Éstas son algunas de las tecnologías con las que he trabajado recientemente:</p>
