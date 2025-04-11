@@ -38,7 +38,7 @@ tags:
 ## 💼 Experiencia Destacada
 
 - [Proyecto Principal](https://www.storepia.cl) - Descripción breve del proyecto más relevante
-- [Contribuciones Open Source](<(https://github.com/midudev/la-velada-web-oficial)>) - Trabajos en comunidad
+- [Contribuciones Open Source](https://github.com/midudev/la-velada-web-oficial) - Trabajos en comunidad
 
 ---
 
