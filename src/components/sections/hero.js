@@ -63,15 +63,15 @@ const Hero = () => {
   const two = <h2 className="big-heading">Joel González F.</h2>;
   const three = (
     <h3 className="big-heading">
-      Construyo experiencias digitales accesibles y perfectas para la web y los móviles.{' '}
+      Ingeniero de software especializado en el desarrollo de experiencias digitales accesibles.{' '}
     </h3>
   );
   const four = (
     <>
       <p>
-        Soy ingeniero de software especializado en el desarrollo y, en ocasiones, diseño de
-        soluciones digitales excepcionales. Actualmente, me enfoco en crear productos accesibles y
-        centrados en el usuario.
+        Construyo soluciones digitales excepcionales para web y móvil. Mi enfoque principal es crear
+        productos que sean intuitivos y accesibles para todos los usuarios, asegurando una
+        experiencia perfecta de principio a fin.
       </p>
     </>
   );

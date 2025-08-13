@@ -135,17 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, my name is Joel Gonzalez Fernandez, Mi pasión por la informática comenzó a los
-              12 años, cuando entré a talleres de Robótica e informática. Durante ese tiempo, decidí
-              probar editar temas personalizados de Tumblr, lo que me enseñó mucho sobre HTML y CSS,
-              ya que hackear un botón personalizado y crear estilos me permitió aprender mucho.
-              Eventualmente, decidí estudiar ingeniería informática.
+              ¡Hola! Soy Joel González Fernández, un ingeniero en informática con una trayectoria
+              que comenzó en la robótica y la edición de temas de Tumblr, donde descubrí mi pasión
+              por el desarrollo web y el diseño. Hoy en día, soy un desarrollador web y consultor de
+              soluciones digitales especializado en la creación de experiencias accesibles y
+              centradas en el usuario.
             </p>
             <p>
-              Actualmente, soy Ingeniero Front-End, especializado en accesibilidad para web y
-              mobile. Contribuyo a la creación y mantenimiento de componentes de interfaz de
-              usuario, asegurando la plataforma cumpla con los estándares de accesibilidad web y las
-              mejores prácticas para ofrecer una experiencia de usuario inclusiva.
+              He trabajado con tecnologías como React, JavaScript, MySQL y WordPress, contribuyendo
+              al desarrollo de sitios web, aplicaciones móviles y plataformas internas (CRM). Mi
+              objetivo es aportar mis conocimientos para impulsar el crecimiento de las empresas a
+              través de soluciones innovadoras y un enfoque en las mejores prácticas de
+              accesibilidad y SEO.
             </p>
 
             <p>Éstas son algunas de las tecnologías con las que he trabajado recientemente:</p>
