@@ -1,6 +1,6 @@
 ---
 date: '2021-07-01'
-title: 'Grupo bestlive B2B'
+title: 'Grupo bestlive B2B - Cerrado Temporal'
 github: ''
 external: 'https://www.grupobestlive.cl'
 tech:

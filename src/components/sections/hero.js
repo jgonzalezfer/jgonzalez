@@ -63,7 +63,7 @@ const Hero = () => {
   const two = <h2 className="big-heading">Joel González F.</h2>;
   const three = (
     <h3 className="big-heading">
-      Ingeniero de software especializado en el desarrollo de experiencias digitales accesibles.{' '}
+      Ingeniero de software especializado en el desarrollo de experiencias digitales.{' '}
     </h3>
   );
   const four = (

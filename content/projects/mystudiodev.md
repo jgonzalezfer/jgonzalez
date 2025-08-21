@@ -2,7 +2,7 @@
 date: '2024-11-01'
 title: 'MyStudioDev'
 github: ''
-external: 'https://mystudiodev.netlify.app'
+external: 'https://mystudiodev.cl'
 tech:
   - Wordpress
   - PHP
