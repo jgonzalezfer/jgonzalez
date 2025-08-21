@@ -1,6 +1,6 @@
 ---
 date: '2022-03-27'
-title: 'Grupo Ortopedias Más Vida E-commerce B2C'
+title: 'Grupo Ortopedias Más Vida E-commerce B2C - Cerrado'
 github: ''
 external: 'https://ortopediasmasvida.cl'
 tech:

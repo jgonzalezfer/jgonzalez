@@ -1,6 +1,6 @@
 ---
 date: '2021-08-04'
-title: 'Grupo Acima B2B'
+title: 'Grupo Acima B2B - Cerrado Temporal'
 github: ''
 external: 'https://grupoacima.cl/'
 tech:

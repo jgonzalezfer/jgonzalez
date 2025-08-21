@@ -1,6 +1,6 @@
 ---
 date: '2022-03-01'
-title: 'Acción Venus E-commerce'
+title: 'Acción Venus E-commerce - Cerrado Temporal'
 github: ''
 external: 'https://www.accionvenus.com'
 ios: ''
