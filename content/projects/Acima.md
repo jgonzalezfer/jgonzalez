@@ -11,4 +11,4 @@ company: 'Grupo Acima'
 showInProjects: true
 ---
 
-Desarrollé un plugin de WooCommerce para ventas B2B, que incluye la integración de una pasarela de pago y perfiles personalizados para cada grupo de clientes.
+Desarrollé un plugin de WooCommerce para ventas B2B, que incluye la integración de una pasarela de pago y perfiles personalizados para cada grupo de cliente.
